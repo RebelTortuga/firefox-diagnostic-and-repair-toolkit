@@ -1,0 +1,14 @@
+Firefox Backup */
+Restore Staging */
+* before restore */
+Copy Log.txt
+File Integrity.json
+Backup Complete.json
+logins*.json
+key4.db
+Profile/
+Firefox Restore *.txt
+Logs/
+Recovery/
+settings.json
+*.zip
