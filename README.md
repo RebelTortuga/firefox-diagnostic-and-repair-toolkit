@@ -85,6 +85,18 @@ The left-side buttons appear in this order:
 
 The guide is directly below Other Tools. Optional Support remains evenly positioned between the guide and Exit. These button colors remain in place when switching sections. The toolkit starts on Profile and Folders. Version remains **1.0.0**.
 
+## Frequently asked questions and troubleshooting
+
+**Which Firefox profile should I choose?** In Firefox, visit `about:profiles` and compare the Root Directory to the profile shown in the toolkit. Close Firefox before backup or repair operations.
+
+**The window or buttons look different from the screenshots.** Extract the latest release into a **new folder** and launch `Firefox Diagnostic and Repair Toolkit.bat` there. An older desktop shortcut can point to a previous copy.
+
+**Will a backup include everything?** You choose the backup categories. Review the selection, verify the resulting backup, and keep a separate copy before modifying your browser profile.
+
+**Why does Firefox need to be closed?** Files can be in use or change during backup and repair. Fully exit Firefox, including background processes, when the action instructs you to.
+
+**Does this require administrator access or PowerShell 7?** No. The documented launcher uses Windows PowerShell 5.1, which is included with Windows 10 and 11.
+
 ## 🔗 Related Free RebelTortuga Projects
 
 Explore other free tools and workflows:
