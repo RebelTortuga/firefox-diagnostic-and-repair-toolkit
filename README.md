@@ -55,7 +55,7 @@ Saved profile selection: `%LOCALAPPDATA%\RebelTortuga\Firefox-Toolkit\settings.j
 It will not collect payment information or make a payment; any contribution would be completed separately on Ko-fi. Bug reports, improvement ideas, and sharing the project are welcome ways to help as well.
 
 ## Feedback
-Use this repository's Issues tab for bugs, cleanup suggestions and feature requests. Include Windows/Firefox versions, option selected, reproduction steps and exact error text. Never attach passwords, profiles or backups. A repository URL has not yet been confirmed, so no guessed GitHub link is embedded.
+Use this repository's Issues tab for bugs, cleanup suggestions and feature requests. Include Windows/Firefox versions, option selected, reproduction steps and exact error text. Never attach passwords, profiles or backups. This repository is the official RebelTortuga project page for this independent toolkit.
 
 ## Mozilla references
 - [Troubleshoot and diagnose Firefox problems](https://support.mozilla.org/en-US/kb/troubleshoot-and-diagnose-firefox-problems)
@@ -84,6 +84,16 @@ The left-side buttons appear in this order:
 8. **Exit Toolkit** — red with white text
 
 The guide is directly below Other Tools. Optional Support remains evenly positioned between the guide and Exit. These button colors remain in place when switching sections. The toolkit starts on Profile and Folders. Version remains **1.0.0**.
+
+## 🔗 Related Free RebelTortuga Projects
+
+Explore other free tools and workflows:
+
+- [wow-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/wow-diagnostic-and-repair-toolkit)
+- [brave-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/brave-diagnostic-and-repair-toolkit)
+- [shell-diagnostic-and-repair-toolkit](https://github.com/RebelTortuga/shell-diagnostic-and-repair-toolkit)
+
+[Browse all RebelTortuga projects](https://github.com/RebelTortuga)
 
 ## 🐢 Support RebelTortuga
 
