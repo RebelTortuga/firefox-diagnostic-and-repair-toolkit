@@ -30,4 +30,4 @@ The guide is directly below Other Tools. Optional Support remains evenly positio
 
 ## Optional Ko-fi support
 
-Optional Support asks before opening [https://ko-fi.com/rebeltortuga](https://ko-fi.com/rebeltortuga) in your browser. All features remain free, and no payment information is collected by the toolkit.
+Optional Support asks before opening <img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="17" height="17" alt="Ko-fi"> [https://ko-fi.com/rebeltortuga](https://ko-fi.com/rebeltortuga) in your browser. All features remain free, and no payment information is collected by the toolkit.
