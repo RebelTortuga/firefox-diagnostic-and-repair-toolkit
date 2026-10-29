@@ -1,6 +1,9 @@
 <p align="center"><img src="assets/RebelTortuga.png" alt="RebelTortuga turtle mascot" width="160"></p>
 
 # Firefox Diagnostic and Repair Toolkit
+
+A free Windows utility for diagnosing Firefox issues, reviewing profile backups, and choosing individual repair actions. Its graphical interface provides a section sidebar, Diagnostics Center, backup and restore tools, saved logs, and help. Repairs are user-selected; review backup options before making changes. This independent project is not affiliated with Mozilla.
+
 ## Open the sidebar version
 Extract this ZIP into a **new folder**, then double-click **Firefox Diagnostic and Repair Toolkit.bat** in that folder. The title bar shows **1.0.0**. This version has clickable section buttons on the left, actions on the right, a results area, and a highlighted Exit Toolkit button beneath the sidebar. Use this launcher rather than a shortcut to an earlier extracted release. The backup category picker remains a separate dialog.
 
