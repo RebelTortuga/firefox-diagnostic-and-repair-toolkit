@@ -1,4 +1,4 @@
-﻿# Firefox Diagnostic and Repair Toolkit | RebelTortuga | Version 1.0.0
+﻿# Firefox Diagnostic and Repair Toolkit | RebelTortuga | Version 1.0.1
 $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
@@ -310,7 +310,7 @@ try {
     }
     Log 'Sidebar toolkit started.'
     $script:Form = New-Object System.Windows.Forms.Form
-    $script:Form.Text = 'Firefox Diagnostic and Repair Toolkit - Version 1.0.0 - RebelTortuga'
+    $script:Form.Text = 'Firefox Diagnostic and Repair Toolkit - Version 1.0.1 - RebelTortuga'
     $script:Form.Size = New-Object Drawing.Size(1050,900)
     $script:Form.MinimumSize = New-Object Drawing.Size(920,850)
     $script:Form.StartPosition = 'CenterScreen'
@@ -327,7 +327,7 @@ try {
     $null = $layout.RowStyles.Add((New-Object System.Windows.Forms.RowStyle('Absolute',40)))
     $script:Form.Controls.Add($layout)
     $title = New-Object System.Windows.Forms.Label
-    $title.Text = 'Firefox Diagnostic and Repair Toolkit' + "`r`n" + 'Version 1.0.0 | RebelTortuga | Free to use' + "`r`n`r`n" + 'Close Firefox completely before backups or repairs.'
+    $title.Text = 'Firefox Diagnostic and Repair Toolkit' + "`r`n" + 'Version 1.0.1 | RebelTortuga | Free to use' + "`r`n`r`n" + 'Close Firefox completely before backups or repairs.'
     $title.Dock = 'Fill'
     $layout.Controls.Add($title,0,0)
     $layout.SetColumnSpan($title,2)

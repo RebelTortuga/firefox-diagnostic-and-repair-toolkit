@@ -67,7 +67,7 @@ The left-side buttons appear in this order:
 7. **Optional Support** — blue
 8. **Exit Toolkit** — red with white text
 
-The guide is directly below Other Tools. Optional Support remains evenly positioned between the guide and Exit. These button colors remain in place when switching sections. The toolkit starts on Profile and Folders. Version remains **1.0.0**.
+The guide is directly below Other Tools. Optional Support remains evenly positioned between the guide and Exit. These button colors remain in place when switching sections. The toolkit starts on Profile and Folders. Version remains **1.0.1**.
 
 ## Optional Ko-fi support
 
