@@ -23,7 +23,7 @@ A Firefox companion to the WoW Diagnostic and Repair Toolkit: a clickable sectio
 
 ## Screenshot
 
-![Firefox Diagnostic and Repair Toolkit main window, with local paths redacted](assets/screenshot.png)
+![Firefox Diagnostic and Repair Toolkit main window with profile selector, navigation, and results panel](assets/screenshot.png)
 
 ## Start here
 1. Extract **all files** from the ZIP into one folder.
