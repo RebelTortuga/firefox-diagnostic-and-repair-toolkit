@@ -1,6 +1,6 @@
 # Running the toolkit
 ## Open the sidebar version
-Extract this ZIP into a **new folder**, then double-click **Firefox Diagnostic and Repair Toolkit.bat** in that folder. The title bar shows **1.0.0**. This version has clickable section buttons on the left, actions on the right, a results area, and a highlighted Exit Toolkit button beneath the sidebar. Use this launcher rather than a shortcut to an earlier extracted release. The backup category picker remains a separate dialog. Extract all files first. Double-click **Firefox Diagnostic and Repair Toolkit.bat**. A launcher window may appear briefly; the graphical toolkit stays open and the console is hidden. Administrator access is not required.
+Extract this ZIP into a **new folder**, then double-click **Firefox Diagnostic and Repair Toolkit.bat** in that folder. The title bar shows **1.0.1**. This version has clickable section buttons on the left, actions on the right, a results area, and a highlighted Exit Toolkit button beneath the sidebar. Use this launcher rather than a shortcut to an earlier extracted release. The backup category picker remains a separate dialog. Extract all files first. Double-click **Firefox Diagnostic and Repair Toolkit.bat**. A launcher window may appear briefly; the graphical toolkit stays open and the console is hidden. Administrator access is not required.
 
 If Windows marks the download as blocked, right-click the ZIP, select Properties, check **Unblock** if shown, click Apply, then extract it again. Unblock does not guarantee Smart App Control or organizational policies will permit execution. Do not disable those protections just to run the toolkit. Keep both PS1 files, the BAT launcher and documentation together. Click **Exit Toolkit** when finished.
 
@@ -26,7 +26,7 @@ The left-side buttons appear in this order:
 7. **Optional Support** — blue
 8. **Exit Toolkit** — red with white text
 
-The guide is directly below Other Tools. Optional Support remains evenly positioned between the guide and Exit. These button colors remain in place when switching sections. The toolkit starts on Profile and Folders. Version remains **1.0.0**.
+The guide is directly below Other Tools. Optional Support remains evenly positioned between the guide and Exit. These button colors remain in place when switching sections. The toolkit starts on Profile and Folders. Version remains **1.0.1**.
 
 ## Optional Ko-fi support
 
